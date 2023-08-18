@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bfb9cebace117874d9bada3cd668d4b2
+guid: 8947fc964bdc47f469c7aa829fe450ef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 723647914947265498
-    second: "npc- \u0111\u1ECBch_0"
+      213: 8034521621550820507
+    second: lle lai_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "npc- \u0111\u1ECBch_0"
+      name: lle lai_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2100
-        height: 1500
+        width: 2480
+        height: 3508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad342e0d1f9ea0a00800000000000000
-      internalID: 723647914947265498
+      spriteID: b9c6bb898da508f60800000000000000
+      internalID: 8034521621550820507
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "npc- \u0111\u1ECBch_0": 723647914947265498
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

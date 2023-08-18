@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: bfb9cebace117874d9bada3cd668d4b2
+guid: d1edb68f50b8e5a478a2553ae7a91b1b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 723647914947265498
-    second: "npc- \u0111\u1ECBch_0"
+      213: 2613577980793333244
+    second: "buttum ki\u1EBFm_0"
+  - first:
+      213: -498916674730837894
+    second: "buttum ki\u1EBFm_1"
+  - first:
+      213: -1459628404095005988
+    second: "buttum ki\u1EBFm_2"
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "npc- \u0111\u1ECBch_0"
+      name: "buttum ki\u1EBFm_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2100
-        height: 1500
+        x: 2897
+        y: 2382
+        width: 171
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +130,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad342e0d1f9ea0a00800000000000000
-      internalID: 723647914947265498
+      spriteID: cf528f1835b454420800000000000000
+      internalID: 2613577980793333244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "buttum ki\u1EBFm_1"
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 2381
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78362e7ded7319f0800000000000000
+      internalID: -498916674730837894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "buttum ki\u1EBFm_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 3756
+        height: 1688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdac8dd23bb5ebbe0800000000000000
+      internalID: -1459628404095005988
       vertices: []
       indices: 
       edges: []
@@ -140,8 +188,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "npc- \u0111\u1ECBch_0": 723647914947265498
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
